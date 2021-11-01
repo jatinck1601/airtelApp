@@ -1,0 +1,11 @@
+.myheader {
+  background-color: rgba(163,0,1,255);
+  height: 130px;
+  position: relative;
+}
+.imgclass {
+  margin-top: 3%;
+  height: 40px;
+  margin-left: 50%;
+}
+
